@@ -19,6 +19,17 @@ Junior Computer Science student @KFUPM.
 
 ## Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
 
+ <br />
+ <p align="center">
+  <a href="https://github.com/abdulham1d">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=abdulham1d&show_icons=true&theme=radical&count_private=true">
+  </a>
+  <a href="https://github.com/abdulham1d/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?          username=abdulham1d&layout=compact&theme=radical&langs_count=6" />
+  </a>
+ </p>
+
+
 ![Abdulham1d's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulham1d&theme=midnight-purple)
 
 

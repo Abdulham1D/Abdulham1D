@@ -1,8 +1,6 @@
-<h1>Hi there, I'm Sandakalum <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>   
+<h1>Hello there. This is Abdulhamid <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>   
 
-
-
-Want to know more about me? 
+Junior Computer Science Student @KFUPM. A fromer exchange student @KAIST.
 
   <p>
     <a href="https://www.linkedin.com/in/hgdsandakalum/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hgdsandakalum/)](https://www.linkedin.com/in/hgdsandakalum/"></a>
@@ -45,8 +43,3 @@ Want to know more about me?
 
 ## Github Trophies <img src="https://media.giphy.com/media/QBw33dFlgxnzXSAS27/giphy.gif" width="25px">
 <img src="https://github-profile-trophy.vercel.app/?username=hgdsandakalum&theme=onestar&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET" />
-
-------
-![visitors](https://visitor-badge.glitch.me/badge?page_id=hgdsandakalum.602d829)
-##### Credit: [hgdsandakalum](https://github.com/hgdsandakalum) | Last Edited on: 17/10/2021
-

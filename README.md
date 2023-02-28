@@ -1,4 +1,4 @@
-<h1>Hello there. This is Abdulhamid <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>   
+<title>Hello there. This is Abdulhamid </title>   
 
 Junior Computer Science student @KFUPM.
 

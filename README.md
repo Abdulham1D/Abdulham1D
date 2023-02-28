@@ -8,7 +8,7 @@ Junior Computer Science student @KFUPM.
   </p>
 
 ## Skills
-![](https://img.shields.io/badge/Code-JAVA-informational?&logo=java&logoColor=default)
+![](https://img.shields.io/badge/Code-JAVA-informational?&logo=java)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=default)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=default)
 ![](https://img.shields.io/badge/LaTeX-informational?style=flat&logo=bootstrap&logoColor=default)

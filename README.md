@@ -8,13 +8,13 @@ Junior Computer Science student @KFUPM.
   </p>
 
 ## Skills
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python)
 ![](https://img.shields.io/badge/Code-JAVA-informational?&logo=java)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css)
 ![](https://img.shields.io/badge/LaTeX-informational?style=flat&logo=bootstrap)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript)
 ![](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=sqlite)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python)
 
 
 ## Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">

@@ -20,12 +20,7 @@ Junior Computer Science student @KFUPM.
 ## Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
 ![Abdulham1d's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulham1d&theme=radical)
 
-<a href="https://github.com/abdulham1d">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulham1d&icons=true&theme=dark&langs_count=8&count_private=true&card_width=280" height="220px"/>
-</a>
-<a href="https://github.com/abdulham1d">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulham1d&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27"  alt="abdulham1d's github stats" height="220px" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulham1d&hide_progress=true)](https://github.com/abdulham1d/github-readme-stats)
 
 ## Github Trophies <img src="https://media.giphy.com/media/QBw33dFlgxnzXSAS27/giphy.gif" width="25px">
 <img src="https://github-profile-trophy.vercel.app/?username=abdulham1d&theme=onestar&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET" />

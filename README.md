@@ -15,6 +15,7 @@ Junior Computer Science student @KFUPM. A fromer exchange student @KAIST.
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=ffffff)
 ![](https://img.shields.io/badge/Code-VueJS-informational?style=flat&logo=vue.js&logoColor=white&color=ffffff)
 ![](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=ffffff)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=ffffff)
 
 
 ## Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">

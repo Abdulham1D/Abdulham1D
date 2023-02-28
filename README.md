@@ -1,6 +1,6 @@
 <h1>Hello there. This is Abdulhamid <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>   
 
-Junior Computer Science student @KFUPM. A fromer exchange student @KAIST.
+Junior Computer Science student @KFUPM.
 
   <p>
     <a href="https://www.linkedin.com/in/abdulham1d/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hgdsandakalum/)](https://www.linkedin.com/in/hgdsandakalum/"></a>
@@ -27,3 +27,7 @@ Junior Computer Science student @KFUPM. A fromer exchange student @KAIST.
 
 ## Github Trophies <img src="https://media.giphy.com/media/QBw33dFlgxnzXSAS27/giphy.gif" width="25px">
 <img src="https://github-profile-trophy.vercel.app/?username=hgdsandakalum&theme=onestar&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET" />
+
+
+
+##                                          Beyond Limits   

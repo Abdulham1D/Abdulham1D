@@ -2,7 +2,7 @@
 
 Junior Computer Science student @KFUPM.
 
-  <p>
+  <p align="left">
     <a href="https://www.linkedin.com/in/abdulham1d/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hgdsandakalum/)](https://www.linkedin.com/in/hgdsandakalum/"></a>
     <a href="mailto:hamid@hamidf.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-   square&logo=Gmail&logoColor=white" alt="abdulham1d"/></a>
   </p>

@@ -1,6 +1,6 @@
 <h1>Hello there. This is Abdulhamid <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>   
 
-Junior Computer Science Student @KFUPM. A fromer exchange student @KAIST.
+Junior Computer Science student @KFUPM. A fromer exchange student @KAIST.
 
   <p>
     <a href="https://www.linkedin.com/in/hgdsandakalum/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hgdsandakalum/)](https://www.linkedin.com/in/hgdsandakalum/"></a>

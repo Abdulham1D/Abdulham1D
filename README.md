@@ -29,15 +29,5 @@ Junior Computer Science student @KFUPM.
   </a>
  </p>
 
-
-![Abdulham1d's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulham1d&theme=midnight-purple)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulham1d&layout=compact&theme=midnight-purple)
-
-
 ## 🏆 Github Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=abdulham1d&theme=onestar&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET" />
-
-
-

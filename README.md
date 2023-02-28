@@ -22,10 +22,10 @@ Junior Computer Science student @KFUPM.
  <br />
  <p align="center">
   <a href="https://github.com/abdulham1d">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=abdulham1d&show_icons=true&theme=radical&count_private=true">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=abdulham1d&show_icons=true&theme=midnight-purple&count_private=true">
   </a>
   <a href="https://github.com/abdulham1d/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=abdulham1d&layout=compact&theme=radical"/>
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=abdulham1d&layout=compact&theme=midnight-purple"/>
   </a>
  </p>
 

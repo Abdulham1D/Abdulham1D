@@ -29,4 +29,4 @@ Junior Computer Science student @KFUPM.
 <img src="https://github-profile-trophy.vercel.app/?username=abdulham1d&theme=onestar&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET" />
 
 
-Beyond Limits   
+<strong>Beyond Limits</strong>

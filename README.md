@@ -15,7 +15,7 @@ Junior Computer Science student @KFUPM.
 ![](https://img.shields.io/badge/LaTeX-informational?style=flat&logo=bootstrap)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript)
 ![](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=sqlite)
-
+<a href="mailto:hamid@hamidf.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="abdulham1d" /></a>
 
 ## Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
 

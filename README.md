@@ -1,4 +1,4 @@
-<h1>Hello there. This is Abdulhamid!</h1>   
+<h1>This is Abdulhamid!</h1>   
 
 Junior Computer Science student @KFUPM.
 

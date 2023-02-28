@@ -22,7 +22,7 @@ Junior Computer Science student @KFUPM.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulham1d&icons=true&theme=dark&langs_count=8&count_private=true&card_width=280" height="220px"/>
 </a>
 <a href="https://github.com/abdulham1d">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=hgdsandakalum&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27"  alt="abdulham1d's github stats" height="220px" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulham1d&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27"  alt="abdulham1d's github stats" height="220px" />
 </a>
 
 ## Github Trophies <img src="https://media.giphy.com/media/QBw33dFlgxnzXSAS27/giphy.gif" width="25px">

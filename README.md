@@ -26,8 +26,7 @@ Junior Computer Science student @KFUPM.
 </a>
 
 ## Github Trophies <img src="https://media.giphy.com/media/QBw33dFlgxnzXSAS27/giphy.gif" width="25px">
-<img src="https://github-profile-trophy.vercel.app/?username=hgdsandakalum&theme=onestar&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET" />
+<img src="https://github-profile-trophy.vercel.app/?username=abdulham1d&theme=onestar&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET" />
 
 
-
-##                                          Beyond Limits   
+Beyond Limits   

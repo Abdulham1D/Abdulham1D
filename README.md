@@ -29,5 +29,6 @@ Junior Computer Science student @KFUPM.
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=abdulham1d&layout=compact&theme=radical&langs_count=6&count_private=true" />
   </a>
  </p>
-# Github Trophies
+ 
+## Github Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=abdulham1d&theme=onestar&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET" />

@@ -1,6 +1,6 @@
 <h1>Hi there! 👋🏻 This is Abdulhamid!</h1>   
 
-Sunior Computer Science student @KFUPM.
+Senior Computer Science student @KFUPM.
 
   <p align="left">
     <a href="https://www.linkedin.com/in/abdulham1d/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white)"></a>
